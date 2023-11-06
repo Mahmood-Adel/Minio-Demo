@@ -1,0 +1,38 @@
+# .NET specific files
+*.suo
+*.user
+*.bak
+*.vscode
+*.vs
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Oo]bj/
+[Bb]in/
+[Ll]og/
+[Nn]ode_modules/
+[Pp]ackage[Ss]tore/
+[Pp]ublish/
+[Ss]tage/
+[Tt]est[Rr]esults/
+[Bb]uild/
+
+# Visual Studio files
+.vscode/
+.vs/
+*.sln
+*.sln.docstates
+
+# Rider files
+.idea/
+*.sln.iml
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
